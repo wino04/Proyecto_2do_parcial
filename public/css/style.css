@@ -1,0 +1,48 @@
+
+.custom-card {
+    background-color: transparent;
+    text-align: center;
+}
+.site-body{
+    background-size: cover;
+}
+
+.custom-header {
+    background-color: transparent;
+}
+
+.custom-title {
+    color: white;
+}
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+.custom-input {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+
+.custom-checkbox {
+    color: rgb(255, 255, 255);
+}
+
+
+.custom-btn {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+label{
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 20px;
+}

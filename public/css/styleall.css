@@ -1,0 +1,55 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(226, 223, 184); 
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.navbar {
+    background-color: #9bac9c;
+    
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: rgb(0, 0, 0) !important; /* Texto blanco en la barra de navegación */
+}
+
+/* Estilos de formulario */
+.form-label {
+    color: #4caf50; /* Verde para el texto de las etiquetas del formulario */
+}
+
+.form-control {
+    border: 1px solid #4caf50; /* Borde verde para los campos de formulario */
+}
+
+.btn-primary {
+    background-color: #4caf50; /* Verde para el fondo del botón primario */
+    border: 1px solid #4caf50; /* Borde verde para el botón primario */
+}
+
+.btn-primary:hover {
+    background-color: #45a049; 
+    border: 1px solid #45a049; 
+}
+
+.card {
+    margin-bottom: 20px;
+    border: 1px solid #4caf50; 
+}
+
+footer {
+    background-color: #333; 
+    color: rgb(121, 79, 25); 
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
